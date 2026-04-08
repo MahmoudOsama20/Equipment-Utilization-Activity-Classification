@@ -1,0 +1,6 @@
+torch
+torchvision
+opencv-python
+ultralytics
+kafka-python
+numpy
